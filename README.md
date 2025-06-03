@@ -54,6 +54,8 @@ If needed, contact me, I can send you the ready to plug PCB for a small price !
 
 ### 3D print box
 
+The box can be printed using any recent 3D printer, it feature hole for M3 insert in order to screw the PCB and the lid. Step file are available here
+
 
 <br/><br/>
 <br/><br/>
