@@ -32,11 +32,11 @@ It can be found on Amazon, but if you send me message I may get them for you che
 
 ### Custom shield for Wemos D1
 
-
-<img src="images/shield_pcb_3d.png" alt="Alt Text" style="width:30%; height:auto;">
-<img src="images/shield_pcb.png" alt="Alt Text" style="width:30%; height:auto;">
-<img src="images/shield_pcb_3d_2.png" alt="Alt Text" style="width:30%; height:auto;">
-
+<p align="center">
+ <img src="images/shield_pcb_3d.png" alt="Alt Text" style="width:30%; height:auto; margin-right: 10px;">
+ <img src="images/shield_pcb.png" alt="Alt Text" style="width:30%; height:auto; margin-right: 10px;">
+ <img src="images/shield_pcb_3d_2.png" alt="Alt Text" style="width:30%; height:auto;">
+</p>
 
 The shield consist of a simple PCB that route power from the a Barrel jack input to the Wemos D1 and to the led strip with a jst connector.
 
