@@ -73,7 +73,7 @@ At the bottom of the PCB box, there is a hole for passing led cable and to fix t
 </p>
 
 
-### Power 
+## Power 
 
 Connect any 5V power source to the input jack and you are good to go.
 
@@ -83,14 +83,14 @@ Most of the time I use [this cable](https://www.aliexpress.com/item/100500488688
 
 On one 10 000mah portable battery, I can run two bar for around 6 hours at max brightness (depends on the effect used).
 
-##### Fixed :
+#### Fixed :
 
 You can also buy a [5V 60A alimentation](https://www.amazon.fr/Alitove-dalimentation-WS2811-WS2812B-WS2813/dp/B08T2724SD?pd_rd_w=6WsGW&content-id=amzn1.sym.cbacdd79-a2a7-4dad-8c44-4a36464a6b2a%3Aamzn1.symc.ca948091-a64d-450e-86d7-c161ca33337b&pf_rd_p=cbacdd79-a2a7-4dad-8c44-4a36464a6b2a&pf_rd_r=MYNJJ29EYH6KA8NS1FD5&pd_rd_wg=14BZq&pd_rd_r=baf6692d-eb8d-406e-9d3d-868baf37e734&pd_rd_i=B08SVND5QD&th=1) to run multiple bar on one power supply.
 
 Be carefull of the wire gauge and the wiring.
 
 
-### Control
+## Control
 
 The leds can be controlled through Art-net with software like Resolume, QLC and other lighthing software.
 
@@ -99,7 +99,7 @@ You can also control them using the WLED app, you can check on their website mor
 Many effect are programmed on those and thus easier to setup than a dedicated software.
 
 
-### What's next ?
+## What's next ?
 
 My goal is to keep improving on this design, here some of my next iteration : 
 
