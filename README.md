@@ -81,7 +81,7 @@ Connect any 5V power source to the input jack and you are good to go.
 
 Most of the time I use [this cable](https://www.aliexpress.com/item/1005004886885121.html?spm=a2g0o.order_list.order_list_main.17.24f05e5b1uxWho) (you need the 5.5mm x 2.1mm version) and plug them directly to a portable battery.
 
-On one 10 0000mah portable battery, I can run two bar for around 6 hours at max brightness (depends on the effect used).
+On one 10 000mah portable battery, I can run two bar for around 6 hours at max brightness (depends on the effect used).
 
 ##### Fixed :
 
