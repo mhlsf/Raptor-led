@@ -28,6 +28,8 @@ The led aluminiun profile should have the following shape and be 1 meter long :
 
 <br/>
 
+They often provide a screw for each side to attach the enclosure.
+
 It can be found on Amazon, but if you send me message I may get them for you cheaper as I order in bulk ! 
 
 
