@@ -57,7 +57,7 @@ If needed, contact me, I can send you the ready to plug PCB for a small price !
 
 ### 3D print box
 
-The box can be printed using any recent 3D printer. It features holes for M3 inserts to screw the PCB and the lid. STEP files are available here.
+The box can be printed using any recent 3D printer. It features holes for M3 inserts to screw the PCB and the lid. STEP files are available [here](https://github.com/mhlsf/Raptor-led/tree/main/stl).
 
 There is three stl, one for the box for PCB, one for the lid of the box and one for the other end of the led bar.
 
