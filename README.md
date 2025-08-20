@@ -9,7 +9,7 @@ The project goal is to create an Astera like Pixel bar, that is easy to build an
 
 It work around Wemos D1 esp8266 and feature a custom shield and enclosure to plug on a aluminium profile. We are using [Wled library](https://github.com/wled/WLED) to run the project !
 
-**If you are not interested on the technical side of the project, you can buy a kit with all the component needed to make yours in under 1 hours !** You can send me message to **mahel.sif+led@gmail.com**
+**If you are not interested on the technical side of the project, you can buy a kit with all the component needed to make yours in under 1 hours !** You can send me a message to **mahel.sif+led@gmail.com** for price details
 
 ## List of components
 
